@@ -1,3 +1,0 @@
-//etapa de conectar o docker com o banco de dados do projeto (msql) usando o comando no terminal do vscode
-
-docker run --name mysql -e MYSQL_ROOT_PASSWORD=root -p3306:3306 -d mysql 
